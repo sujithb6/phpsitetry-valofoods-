@@ -1,0 +1,80 @@
+.tbl-primary{
+    width:100%;
+}
+
+.page-title{
+    margin: 2% !important;
+    font-size:30px;
+}
+
+.tbl-secondary{
+    width:50%;
+    text-align: left;
+}
+
+table tr th {
+    padding:10px;
+    border-bottom: 1px solid gray;
+}
+
+table tr td{
+    text-align: center;
+    padding:5px;
+}
+
+.btn-primary{
+    padding:15px;
+    background-color: #8241fc;
+    text-decoration: none;
+    color:beige;
+    font-weight: bold;
+    margin: 2% !important;
+}
+
+.btn-primary:hover{
+     background-color: #58229e;
+}
+
+.btn-update{
+    padding:4px;
+    background-color: #00ff62;
+    text-decoration: none;
+    color:beige;
+    font-weight: bold;
+}
+
+.btn-update:hover{
+     background-color:#04b93e  ;
+}
+
+.btn-delete{
+    padding:4px;
+    background-color: #fa3737;
+    text-decoration: none;
+    color:beige;
+    font-weight: bold;
+}
+
+.btn-delete:hover{
+    background-color: #cf0000;
+}
+
+.btn-change-password{
+    padding:4px;
+    background-color: #378bfa;
+    text-decoration: none;
+    color:beige;
+    font-weight: bold;
+}
+
+.btn-change-password:hover{
+    background-color: #1335a7;
+}
+
+.success {
+      color: rgb(0, 105, 97);
+  }
+
+  .fail{
+      color: #fd2a3b;
+  }
